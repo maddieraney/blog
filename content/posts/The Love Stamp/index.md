@@ -14,7 +14,7 @@ The Love Stamp has been around since 1973 and the Postal Service releases a new 
 
 The 2024 Love Stamp is lackluster, to say the least. The book of 20 stamps provides no variation in design. You simply get 20 of the same geometric white dove carrying a letter to an anonymous and presumably underwhelmed recipient. 
 
-I will acknowledge at least the quaint nod to the now-defunct carrier pigeon and its role in postal history. However, as far as it goes for stamps marking historical significance this sets the bar low. Addtionally, if at all intened the play on the word forever, deserves at most a tip of the hat to. 
+I will acknowledge at least the quaint nod to the now-defunct carrier pigeon and its role in postal history. However, as far as it goes for stamps marking historical significance this sets the bar low. Addtionally, if at all intended, the play on the word forever deserves at most a tip of the hat.
 
 I cannot imagine the neutral-color-loving bride and her sad beige guests will be drawn to such a flagrant display of contrasting color. The girl who picked her bridesmaid’s dress to be the champaign-colored satin slip will find this red square to be intrusive on the back of her invitation that dawns the same champagne color as her sorority sisters.
 
