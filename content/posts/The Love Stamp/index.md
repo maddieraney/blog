@@ -1,9 +1,9 @@
 +++
 title = "The 2024 Love Stamp"
-date = "2024-01-6"
+date = "2024-01-06"
 +++
 
-My review and thought on this years Love Stamp
+My review and thoughts on this year's Love Stamp.
 
 <!--more-->
 Recently, I have dipped my toe into the ocean that is stamp collecting. This hobby is seemingly boundless and can be quite overwhelming at first glance, however, you can quickly conclude that the only rule is that there are no rules, which is why I have taken to judging the wares displayed on the USPS online store. 
