@@ -25,7 +25,7 @@ All you have to do is take a 35 multiple choice question test, and two more opti
 ### You get a cool little call sign
 A unique string of letters and numbers could be yours today!
 
-### If you’re a custom-built PC person.
+### If you’re a custom-built PC person
 Level up and be a custom-built radio person! 
 
 Jokes aside, amateur radio is not only a practical skill to have, but it is also a pretty fun hobby. If you have any interest in tech hobbies get your license and help to diversify the airwaves! 
