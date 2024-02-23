@@ -1,10 +1,9 @@
 +++
 title = "Amateur Radio"
-date = "2023-02-24"
+date = "2024-02-23"
 +++
 
 Why I got my amateur radio license and why you should too!
-==========================================================
 <!--more-->
 
 It would be easy for me to list the practical reasons why one would want to become a ham, it would be a lie to say that is why I did it. No, it wasn't to prep for the world's inevitable end, or my adventures to off-grid locations, or to make contact with potential extraterrestrial beings. In truth, I viewed this FCC-issued license, in which the vast majority of holders are white middle-aged men, as a challenge to be bested. 
@@ -12,7 +11,7 @@ It would be easy for me to list the practical reasons why one would want to beco
 While there are examples of the good-natured, friendly-contact side of the hobby, generally there are very few aspects of it that cater to a new and more diverse generation of ham radio operators. This is why instead of offering more criticism I will now attempt to persuade the reader to pursue a license of their own! 
 
 Why you need to get yours
-=============================
+=========================
 
 ### If you’re nosy you are listening to other people's conversation
 This is truly the crux of the hobby, just tune your radio, lean back, and enjoy the banter of two men having a heated political debate or comparing antenna lengths. 
