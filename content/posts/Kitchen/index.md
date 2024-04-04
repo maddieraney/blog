@@ -41,8 +41,6 @@ PLEASE be mindful of lead and radiation in vintage and antique items! It is unco
 The Garlic Girl and a Gallery of Other Miscellaneous Items 
 
 ![The coffee sevice](Kitchen7.jpg) ![The decanters](Kitchen8.jpg)
-
 ![The Garlic Girl](Kitchen5.jpg) 
-
-![Carrage Thing](Kitchen9.jpg) ![Bordens Milk Bottles](Kitchen10.jpg) ![Delphite Bowels](Kitchen11.jpg)
+![Carrage Thing](Kitchen9.jpg) ![Bordens Milk Bottles](Kitchen10.jpg) ![Delphite Bowels](Kitchen11.jpeg)
 
