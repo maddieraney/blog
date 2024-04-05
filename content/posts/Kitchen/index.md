@@ -6,7 +6,7 @@ date = "2024-04-04"
 The whys and hows of my antique kitchen.
 <!--more-->
 
-Home to me is my Mother's antique cake plates and yellowed Pampered Chef products. The opulent, swirly ends of our flatware that don’t quite match anything else. The decades-old ceramic casserole pan that gives us no-bake fudge and our favorite glorified chicken. The kitchen for me is the nucleus of the home. The center of holidays, first day of school breakfasts, totally chocolate dinners on bad days, and the list goes on.
+Home to me is my Mother's antique cake plates and yellowed Pampered Chef products. The opulent, swirly ends of our flatware that don’t quite match anything else. The decades-old ceramic casserole pan that gives us no-bake fudge and our favorite glorified chicken. The kitchen for me is the nucleus of the home. The center of holidays, first day of school breakfasts, totally chocolate dinners on bad days, the list goes on.
 
 Maybe I am just grasping at the straws in the nostalgic wind. But to me, recreating this warm feeling in my urban apartment was a necessary step to making it feel more like a home and less like a waypoint. Thus began the journey to replace all my glassware, flatware, utensils, and many other miscellaneous kitchen items with antique and vintage pieces. 
 
