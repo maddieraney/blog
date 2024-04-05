@@ -14,7 +14,7 @@ Maybe I am just grasping at the straws in the nostalgic wind. But to me, recreat
 
 Standing in front of the dining set wall at Dillard's my mom told me that when I got married I got to pick any design I wanted and somebody else would buy the whole set for me. What a sweet deal I thought at no more than 7 years old. It's as if this tradition of gifting a dining set was like a seed packet to growing a home and eventually a family. Why wait for marriage, my 23-year-old self thinks? You still need something to eat on in the meantime, and I have chosen an amber cut-glass set that I found complete at an estate sale. 56 pieces for $60 is a pretty sweet deal too. 
 
-![Plate and Fork](Kitchen1.jpg)
+![Plate and Fork](Kitchen1.png)
 
 ## Forks and Knives
 
