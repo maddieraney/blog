@@ -26,7 +26,7 @@ Mugs and juice glasses and wine glasses and cocktail glasses. All staples in my 
 
 I am so grateful to the antique dealer who let me buy a fraction of her hand-blown mid-century wine glasses. I went home with eight instead of sixteen at such a low cost I felt like I was stealing. The same gratitude to my Mother who gifted me the most stunning set of pink cocktail glasses that belong in Ina Garten’s Hampton home and certainly not mine. 
 
-![Milk Glass Mugs](Kitchen2.jpg) ![Mid Century Wine Glasses](Kitchen3.jpg) ![Pink](Kitchen3a.jpeg)
+![Milk Glass Mugs](2.jpg) 
 
 ## Pyrex Pie Pans
 
@@ -40,7 +40,5 @@ PLEASE be mindful of lead and radiation in vintage and antique items! It is unco
 
 The Garlic Girl and a Gallery of Other Miscellaneous Items 
 
-![The coffee sevice](Kitchen7.jpg) ![The decanters](Kitchen8.jpeg)
-![The Garlic Girl](Kitchen5.jpg) 
-![Carrage Thing](Kitchen9.jpeg) ![Bordens Milk Bottles](Kitchen10.jpg) ![Delphite Bowels](Kitchen11.jpeg)
+![The coffee sevice](KitchenCollege.jpg) 
 
