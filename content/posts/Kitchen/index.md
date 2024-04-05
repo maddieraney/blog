@@ -14,7 +14,7 @@ Maybe I am just grasping at the straws in the nostalgic wind. But to me, recreat
 
 Standing in front of the dining set wall at Dillard's my mom told me that when I got married I got to pick any design I wanted and somebody else would buy the whole set for me. What a sweet deal I thought at no more than 7 years old. It's as if this tradition of gifting a dining set was like a seed packet to growing a home and eventually a family. Why wait for marriage, my 23-year-old self thinks? You still need something to eat on in the meantime, and I have chosen an amber cut-glass set that I found complete at an estate sale. 56 pieces for $60 is a pretty sweet deal too. 
 
-![Plate and Fork](Kitchen1.png)
+![Plate and Fork](Kitchen1.jpg)
 
 ## Forks and Knives
 
@@ -26,7 +26,7 @@ Mugs and juice glasses and wine glasses and cocktail glasses. All staples in my 
 
 I am so grateful to the antique dealer who let me buy a fraction of her hand-blown mid-century wine glasses. I went home with eight instead of sixteen at such a low cost I felt like I was stealing. The same gratitude to my Mother who gifted me the most stunning set of pink cocktail glasses that belong in Ina Garten’s Hampton home and certainly not mine. 
 
-![Milk Glass Mugs](2.jpg) 
+![Milk Glass Mugs](2.png) 
 
 ## Pyrex Pie Pans
 
