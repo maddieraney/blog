@@ -32,19 +32,19 @@
 
 :root {
     --global-font-size: 16px;
-    --global-font-color: #ffffff;
+    --global-font-color: #444;
     --mono-font-stack: Georgia, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --font-stack: Georgia, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --global-line-height: 1.6em;
     --page-width: 70em;
     --display-h1-decoration: 1;
-    --code-bg-color: #491005;
+    --code-bg-color: #fff;
 }
 
 @media only screen and (max-width: 850px) {
     :root {
         --global-font-size: 14px;
-        --global-font-color: #ffffff;
+        --global-font-color: #444;
         --global-line-height: 1.6em;
         --page-width: 70em;
     }
@@ -58,7 +58,7 @@
 }
 
 .box-masonry .box-masonry-image {
-    background: #491005;
+    background: #fff;
 }
 
 .box-masonry,
@@ -73,7 +73,7 @@
 body {
     font-family: var(--font-stack);
     font-size: var(--global-font-size);
-    background-color: #491005;
+    background-color: #fff;
     margin-bottom: 75px;
 }
 
@@ -122,7 +122,7 @@ h1 {
 
 p.social a {
     margin: 0 0 10px 0;
-    color: #491005;
+    color: #fff;
     display: inline-block;
     width: 30px;
     height: 30px;
