@@ -23,6 +23,22 @@ Hello! Welcome to my blog. Enjoy my aimless flow of thought.  <a href="about/">(
 {{ end }}
 </div>
 
+<h1>Latest Fiction</h1>
+
+<div class="posts-list">
+{{ with .Site.GetPage "/fiction" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="post">
+            <p>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+    {{ end }}
+{{ end }}
+</div>
+
 <h1>Latest photos</h1>
 
 <div class="image-grid">
